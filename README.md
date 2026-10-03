@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0896-monotonic-array](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0896-monotonic-array) |
 | [1470-shuffle-the-array](https://github.com/Pranab4321/LeetCodeProblems/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Pranab4321/LeetCodeProblems/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Pranab4321/LeetCodeProblems/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Pranab4321/LeetCodeProblems/tree/master/1929-concatenation-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Pranab4321/LeetCodeProblems/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
