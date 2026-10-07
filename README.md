@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0896-monotonic-array](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0896-monotonic-array) |
 | [1470-shuffle-the-array](https://github.com/Pranab4321/LeetCodeProblems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Pranab4321/LeetCodeProblems/tree/master/1480-running-sum-of-1d-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
