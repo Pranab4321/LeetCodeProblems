@@ -15,6 +15,12 @@ class Solution {
         int n = nums.length;
         Arrays.sort(nums);
         return nums[n/2];
-
+        // int ans = 0;
+        // int count = 0;
+        // for(int i=0; i<n; i++){
+        //     if(nums[i] == 0){
+            
+        //     }
+        // }
     }
 }
