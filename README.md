@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
+| [0169-majority-element](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0283-move-zeroes) |
 | [0896-monotonic-array](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0896-monotonic-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -54,4 +56,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Pranab4321/LeetCodeProblems/tree/master/1480-running-sum-of-1d-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
