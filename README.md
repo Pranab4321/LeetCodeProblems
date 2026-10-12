@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
