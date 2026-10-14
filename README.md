@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0169-majority-element](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0189-rotate-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0169-majority-element) |
 ## Linked List
