@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -85,5 +86,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
