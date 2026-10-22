@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0169-majority-element) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
@@ -82,5 +84,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0443-string-compression](https://github.com/Pranab4321/LeetCodeProblems/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
